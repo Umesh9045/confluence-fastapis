@@ -1,0 +1,91 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker
+*.pid
+*.log
+docker-compose.override.yml
+
+# Mongo/DB data
+mongo_data/
+pg_data/
+
+# AWS SAM
+.sam/
+.aws-sam/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore compiled templates
+*.mo
+*.pot
+
+# Ignore logs
+logs/
+*.log
+
+# Node modules (if any frontend work with npm)
+node_modules/
